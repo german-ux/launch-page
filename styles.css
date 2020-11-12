@@ -27,7 +27,7 @@ body {
 .hero-background-img:after {
     content:"";
     position: absolute;
-    background-image:url("https://github.com/german-ux/launch-page/blob/main/trevor-buntin-oicrctqUZjU-unsplash.jpg");
+    background-image:url("german-ux/launch-page/blob/main/trevor-buntin-oicrctqUZjU-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
